@@ -17,7 +17,7 @@ I created this repo to:
 - Arrays & Strings
 - Pointers
 - Structures
-- File handling (if included)
+- File handling 
 
 ## 📂 Folder Structure
 Each file or folder represents a specific topic or program.
