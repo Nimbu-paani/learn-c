@@ -19,17 +19,6 @@ I created this repo to:
 - Structures
 - File handling 
 
-## 📂 Folder Structure
-Each file or folder represents a specific topic or program.
-
-Example:
-
-/basics
-/loops
-/functions
-/pointers
-
-
 ## ▶️ How to Run
 Make sure you have a C compiler like `gcc` installed.
 
